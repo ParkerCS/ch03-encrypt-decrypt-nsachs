@@ -1,5 +1,4 @@
 
-
 def encode(key, string):
     '''
     Encode a message using encryption key
@@ -14,3 +13,4 @@ def encode(key, string):
         encoded_chars.append(encoded_c)
     encoded_string = "".join(encoded_chars)
     return encoded_string
+

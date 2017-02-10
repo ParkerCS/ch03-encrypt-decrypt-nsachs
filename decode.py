@@ -1,5 +1,4 @@
 
-
 def decode(key, string):
     '''
     Decode a message using encryption key
